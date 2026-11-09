@@ -1,0 +1,4 @@
+- insert:
+    - id: reading
+      name: '@local/dsh-reading'
+      config: {}
